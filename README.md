@@ -4,7 +4,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sufiane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-f0f755cd-5c3e-4580-b2ae-e181731bd391
 <!--END_SECTION:waka-->
 
 
