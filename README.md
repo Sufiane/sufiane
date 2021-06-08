@@ -4,13 +4,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sufiane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 943 Contributions in the Year 2021
+> 🏆 947 Contributions in the Year 2021
  > 
-> 📦 664 Bytes Used in Github's Storage 
+> 📦 666 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
