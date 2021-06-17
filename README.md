@@ -8,9 +8,9 @@
 
 **🐱 My Github Data** 
 
-> 🏆 995 Contributions in the Year 2021
+> 🏆 999 Contributions in the Year 2021
  > 
-> 📦 750 Bytes Used in Github's Storage 
+> 📦 752 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,9 +30,9 @@
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       37 commits     █████░░░░░░░░░░░░░░░░░░░░   21.76% 
+Monday       35 commits     █████░░░░░░░░░░░░░░░░░░░░   20.59% 
 Tuesday      25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
-Wednesday    22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.94% 
+Wednesday    24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.12% 
 Thursday     46 commits     ██████░░░░░░░░░░░░░░░░░░░   27.06% 
 Friday       26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.29% 
 Saturday     7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.12% 
@@ -84,7 +84,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Sufiane/Sufiane/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/06/2021
+ Last Updated on 17/06/2021
 <!--END_SECTION:waka-->
 
 
