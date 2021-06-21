@@ -10,7 +10,7 @@
 
 > 🏆 1,011 Contributions in the Year 2021
  > 
-> 📦 777 Bytes Used in Github's Storage 
+> 📦 779 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,7 +84,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Sufiane/Sufiane/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/06/2021
+ Last Updated on 21/06/2021
 <!--END_SECTION:waka-->
 
 
