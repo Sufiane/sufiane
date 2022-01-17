@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sufiane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -47,7 +47,7 @@ Sunday       2 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               5 hrs 39 mins       ██████████████░░░░░░░░░░░   58.92% 
+TypeScript               5 hrs 39 mins       ██████████████░░░░░░░░░░░   58.91% 
 Text                     1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.42% 
 JSON                     1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.16% 
 YAML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
@@ -80,7 +80,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Sufiane/Sufiane/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/01/2022
+ Last Updated on 17/01/2022
 <!--END_SECTION:waka-->
 
 
