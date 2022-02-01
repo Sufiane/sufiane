@@ -4,11 +4,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sufiane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 129 Contributions in the Year 2022
+> 🏆 134 Contributions in the Year 2022
  > 
 > 📦 1.5 kB Used in GitHub's Storage 
  > 
@@ -30,8 +30,8 @@
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       42 commits     █████░░░░░░░░░░░░░░░░░░░░   22.58% 
-Tuesday      33 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.74% 
+Monday       43 commits     █████░░░░░░░░░░░░░░░░░░░░   23.12% 
+Tuesday      32 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.2% 
 Wednesday    44 commits     ██████░░░░░░░░░░░░░░░░░░░   23.66% 
 Thursday     37 commits     █████░░░░░░░░░░░░░░░░░░░░   19.89% 
 Friday       27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.52% 
@@ -81,7 +81,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Sufiane/Sufiane/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/01/2022 00:22:21 UTC
+ Last Updated on 01/02/2022 00:22:56 UTC
 <!--END_SECTION:waka-->
 
 
