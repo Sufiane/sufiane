@@ -8,7 +8,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 319 Contributions in the Year 2022
+> 🏆 325 Contributions in the Year 2022
  > 
 > 📦 1.5 kB Used in GitHub's Storage 
  > 
@@ -47,16 +47,20 @@ Sunday       2 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               49 mins             ████████████████░░░░░░░░░   64.63% 
+JSON                     26 mins             ████████░░░░░░░░░░░░░░░░░   35.22% 
+Dockerfile               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11% 
+.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03% 
+tsconfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 1 hr 16 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+api                      1 hr 16 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 16 mins        █████████████████████████   100.0%
 
 ```
 
@@ -77,7 +81,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Sufiane/Sufiane/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/03/2022 00:35:17 UTC
+ Last Updated on 31/03/2022 00:30:24 UTC
 <!--END_SECTION:waka-->
 
 
