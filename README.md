@@ -49,16 +49,16 @@ Sunday       9 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-api                      5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -79,7 +79,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Sufiane/Sufiane/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/06/2022 00:39:29 UTC
+ Last Updated on 02/06/2022 00:41:55 UTC
 <!--END_SECTION:waka-->
 
 
