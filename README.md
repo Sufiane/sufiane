@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sufiane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-569%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -20,48 +20,6 @@
  > 
 > 🔑 0 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03% 
-🌆 Daytime    24 commits     ██████████████████░░░░░░░   72.73% 
-🌃 Evening    8 commits      ██████░░░░░░░░░░░░░░░░░░░   24.24% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       8 commits      ██████░░░░░░░░░░░░░░░░░░░   24.24% 
-Tuesday      3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Wednesday    6 commits      ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Thursday     3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Friday       3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Saturday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03% 
-Sunday       9 commits      ██████░░░░░░░░░░░░░░░░░░░   27.27%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -78,7 +36,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Sufiane/Sufiane/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 00:42:11 UTC
+ Last Updated on 05/09/2022 00:45:43 UTC
 <!--END_SECTION:waka-->
 
 
