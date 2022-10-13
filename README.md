@@ -6,11 +6,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-569%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 633 Contributions in the Year 2022
+> 🏆 634 Contributions in the Year 2022
  > 
 > 📦 1.9 kB Used in GitHub's Storage 
  > 
@@ -78,7 +78,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Sufiane/Sufiane/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/10/2022 00:58:59 UTC
+ Last Updated on 13/10/2022 00:51:47 UTC
 <!--END_SECTION:waka-->
 
 
