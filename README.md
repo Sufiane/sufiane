@@ -4,13 +4,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sufiane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-963%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-966%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 2.9 kB Used in GitHub's Storage 
+> 📦 3.0 kB Used in GitHub's Storage 
  > 
 > 🏆 5 Contributions in the Year 2024
  > 
@@ -47,20 +47,21 @@ Sunday                   21 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               4 hrs 48 mins       ███████████████████████░░   91.40 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-CSV/TSV                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+TypeScript               7 hrs 14 mins       ███████████████████████░░   93.83 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+CSV/TSV                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-WebStorm                 5 hrs 15 mins       █████████████████████████   100.00 % 
+WebStorm                 7 hrs 42 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-psg                      5 hrs 15 mins       █████████████████████████   100.00 % 
+psg                      7 hrs 42 mins       █████████████████████████   99.83 % 
+bot-wtn                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Mac                      5 hrs 15 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,7 +79,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sufiane/Sufiane/main/assets/bar_graph.png)
 
 
- Last Updated on 13/01/2024 00:47:53 UTC
+ Last Updated on 14/01/2024 00:52:55 UTC
 <!--END_SECTION:waka-->
 
 
