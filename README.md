@@ -47,22 +47,16 @@ Sunday                   29 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 27 mins             ████████████████░░░░░░░░░   64.46 % 
-JavaScript               9 mins              ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
-JSON                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sofiane-souissi-deel     25 mins             ███████████████░░░░░░░░░░   59.85 % 
-freelance-management_test10 mins             ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
-freelance-management     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,7 +74,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sufiane/Sufiane/main/assets/bar_graph.png)
 
 
- Last Updated on 26/01/2024 00:44:45 UTC
+ Last Updated on 27/01/2024 00:44:29 UTC
 <!--END_SECTION:waka-->
 
 
