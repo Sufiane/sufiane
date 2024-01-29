@@ -47,16 +47,17 @@ Sunday                   29 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     0 secs              ████████████████░░░░░░░░░   65.97 % 
+Markdown                 0 secs              █████████░░░░░░░░░░░░░░░░   34.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sofiane-souissi-deel     0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -74,7 +75,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sufiane/Sufiane/main/assets/bar_graph.png)
 
 
- Last Updated on 28/01/2024 00:47:30 UTC
+ Last Updated on 29/01/2024 00:44:50 UTC
 <!--END_SECTION:waka-->
 
 
