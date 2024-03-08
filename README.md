@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sufiane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C018%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C018%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -47,17 +47,19 @@ Sunday                   65 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               5 hrs 6 mins        ███████████████████████░░   91.98 % 
-Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+TypeScript               3 hrs 26 mins       ███████████████████████░░   90.31 % 
+Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-WebStorm                 5 hrs 33 mins       █████████████████████████   100.00 % 
+WebStorm                 3 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-typescript               5 hrs 33 mins       █████████████████████████   100.00 % 
+typescript               3 hrs 46 mins       █████████████████████████   98.70 % 
+psg                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 💻 Operating System: 
-Mac                      5 hrs 33 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,7 +77,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sufiane/Sufiane/main/assets/bar_graph.png)
 
 
- Last Updated on 07/03/2024 00:36:35 UTC
+ Last Updated on 08/03/2024 00:44:04 UTC
 <!--END_SECTION:waka-->
 
 
