@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C063%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -45,18 +45,18 @@ Sunday                   85 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               5 hrs 9 mins        ████████████████████████░   94.10 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+TypeScript               4 hrs 38 mins       ███████████████████████░░   93.48 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-WebStorm                 5 hrs 29 mins       █████████████████████████   100.00 % 
+WebStorm                 4 hrs 57 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-coding-game              5 hrs 29 mins       █████████████████████████   100.00 % 
+coding-game              4 hrs 57 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 29 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,7 +75,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sufiane/Sufiane/main/assets/bar_graph.png)
 
 
- Last Updated on 20/04/2024 00:46:20 UTC
+ Last Updated on 21/04/2024 00:50:35 UTC
 <!--END_SECTION:waka-->
 
 
