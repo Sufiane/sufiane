@@ -4,13 +4,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sufiane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C063%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C064%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 5.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 170 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -45,17 +47,17 @@ Sunday                   85 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               3 hrs 9 mins        █████████████████████████   99.78 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+TypeScript               2 hrs 31 mins       █████████████████████████   99.73 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-WebStorm                 3 hrs 9 mins        █████████████████████████   100.00 % 
+WebStorm                 2 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-coding-game              3 hrs 9 mins        █████████████████████████   100.00 % 
+coding-game              2 hrs 31 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 9 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -74,7 +76,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sufiane/Sufiane/main/assets/bar_graph.png)
 
 
- Last Updated on 25/04/2024 00:49:57 UTC
+ Last Updated on 26/04/2024 00:46:15 UTC
 <!--END_SECTION:waka-->
 
 
