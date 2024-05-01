@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sufiane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C064%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C067%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -47,17 +47,21 @@ Sunday                   95 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               1 hr 40 mins        █████████████████████████   99.59 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+TypeScript               3 hrs 38 mins       ███████████████████░░░░░░   74.89 % 
+Prisma                   53 mins             █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Sqlite Database File     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 🔥 Editors: 
-WebStorm                 1 hr 40 mins        █████████████████████████   100.00 % 
+WebStorm                 4 hrs 51 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-coding-game              1 hr 40 mins        █████████████████████████   100.00 % 
+fan-club                 3 hrs 8 mins        ████████████████░░░░░░░░░   64.83 % 
+coding-game              1 hr 42 mins        █████████░░░░░░░░░░░░░░░░   35.17 % 
 
 💻 Operating System: 
-Mac                      1 hr 40 mins        █████████████████████████   100.00 % 
+Mac                      4 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -76,7 +80,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sufiane/Sufiane/main/assets/bar_graph.png)
 
 
- Last Updated on 30/04/2024 00:46:35 UTC
+ Last Updated on 01/05/2024 00:51:25 UTC
 <!--END_SECTION:waka-->
 
 
