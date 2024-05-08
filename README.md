@@ -12,6 +12,8 @@
 
 > 📦 5.5 kB Used in GitHub's Storage 
  > 
+> 🏆 180 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 30 Public Repositories 
@@ -45,21 +47,16 @@ Sunday                   95 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               1 hr 58 mins        ███████████████░░░░░░░░░░   61.87 % 
-Prisma                   53 mins             ███████░░░░░░░░░░░░░░░░░░   28.01 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Sqlite Database File     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 3 hrs 10 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-fan-club                 3 hrs 8 mins        █████████████████████████   99.01 % 
-coding-game              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 10 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,7 +75,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sufiane/Sufiane/main/assets/bar_graph.png)
 
 
- Last Updated on 07/05/2024 00:47:15 UTC
+ Last Updated on 08/05/2024 00:39:18 UTC
 <!--END_SECTION:waka-->
 
 
