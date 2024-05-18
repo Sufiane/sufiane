@@ -75,7 +75,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sufiane/Sufiane/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2024 00:48:35 UTC
+ Last Updated on 18/05/2024 00:47:49 UTC
 <!--END_SECTION:waka-->
 
 
