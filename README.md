@@ -4,6 +4,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sufiane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C067%20hrs%2056%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -18,6 +20,45 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+🌆 Daytime                256 commits         ███████████████░░░░░░░░░░   59.95 % 
+🌃 Evening                159 commits         █████████░░░░░░░░░░░░░░░░   37.24 % 
+🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Tuesday                  41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Wednesday                57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Thursday                 101 commits         ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
+Friday                   62 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Saturday                 34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Sunday                   95 commits          ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -34,7 +75,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sufiane/Sufiane/main/assets/bar_graph.png)
 
 
- Last Updated on 16/06/2024 00:55:24 UTC
+ Last Updated on 17/06/2024 00:53:24 UTC
 <!--END_SECTION:waka-->
 
 
