@@ -12,8 +12,6 @@
 
 > 📦 5.9 kB Used in GitHub's Storage 
  > 
-> 🏆 380 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 30 Public Repositories 
@@ -80,7 +78,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sufiane/Sufiane/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2024 00:59:05 UTC
+ Last Updated on 12/08/2024 00:56:30 UTC
 <!--END_SECTION:waka-->
 
 
