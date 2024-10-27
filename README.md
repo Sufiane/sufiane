@@ -47,20 +47,16 @@ Sunday                   95 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               4 hrs 30 mins       ████████████████████████░   96.84 % 
-.env file                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-TSConfig                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-Prisma                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 4 hrs 39 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-moment-core              4 hrs 39 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 39 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,7 +75,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sufiane/Sufiane/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2024 00:59:28 UTC
+ Last Updated on 27/10/2024 01:05:33 UTC
 <!--END_SECTION:waka-->
 
 
