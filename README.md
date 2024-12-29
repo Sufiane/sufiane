@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sufiane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C551%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C552%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -47,17 +47,22 @@ Sunday                   111 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               1 hr 57 mins        █████████████████████████   99.93 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+TypeScript               2 hrs 31 mins       ███████████████████████░░   90.43 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Prisma                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-WebStorm                 1 hr 57 mins        █████████████████████████   100.00 % 
+WebStorm                 2 hrs 47 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-psg_inventory            1 hr 57 mins        █████████████████████████   100.00 % 
+psg_inventory            1 hr 57 mins        █████████████████░░░░░░░░   69.81 % 
+moment-core              42 mins             ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
+macadam-cms              7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
 
 💻 Operating System: 
-Mac                      1 hr 57 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -76,7 +81,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sufiane/Sufiane/main/assets/bar_graph.png)
 
 
- Last Updated on 28/12/2024 01:00:17 UTC
+ Last Updated on 29/12/2024 01:07:07 UTC
 <!--END_SECTION:waka-->
 
 
